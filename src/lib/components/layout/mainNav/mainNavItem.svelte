@@ -6,5 +6,5 @@
 
 <a href={link} class={`${active && 'bg-darkpurple'} hover:bg-darkpurple md:justify-center text-white group flex items-center p-2 text-base font-normal rounded-md transition-all gap-1`}>
   <slot />
-  <span class="md:hidden">{linkText}</span>
+  <span class="hidden">{linkText}</span>
 </a>
