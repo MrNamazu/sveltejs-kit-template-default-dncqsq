@@ -55,7 +55,9 @@
     </div>
   </div>
 
-  <div class="cardBG p-3 flex flex-col gap-3">
+<div class="flex gap-3">
+
+  <div class="cardBG flex-1 p-3 flex flex-col gap-3">
 
     <div class="flex items-center gap-3">  
       <div class="flex items-center gap-1 cardBG bg-secondary-900 p-1 w-fit rounded">
@@ -136,4 +138,39 @@
     </div>
 
   </div>
+
+  <div class="cardBG flex-1 p-3 grid grid-cols-2 md:grid-cols-1 gap-3">
+
+    <div class="cardBG bg-secondary-900 p-3 border-b-2 border-primary-main">
+      <div class="text-sm">
+        <span class="font-semibold">Critical Hit:</span> 
+        <span class="">932</span> 
+        <span class="text-green-600">(21+)</span>
+      </div>
+    </div>
+    <div class="cardBG bg-secondary-900 p-3 border-b-2 border-primary-main">
+      <div class="text-sm">
+        <span class="font-semibold">Critical Hit:</span> 
+        <span class="">932</span> 
+        <span class="text-green-600">(21+)</span>
+      </div>
+    </div>
+    <div class="cardBG bg-secondary-900 p-3 border-b-2 border-primary-main">
+      <div class="text-sm">
+        <span class="font-semibold">Critical Hit:</span> 
+        <span class="">932</span> 
+        <span class="text-green-600">(21+)</span>
+      </div>
+    </div>
+    <div class="cardBG bg-secondary-900 p-3 border-b-2 border-primary-main">
+      <div class="text-sm">
+        <span class="font-semibold">Critical Hit:</span> 
+        <span class="">932</span> 
+        <span class="text-green-600">(21+)</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 </div>
