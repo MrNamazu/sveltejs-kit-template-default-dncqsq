@@ -173,4 +173,13 @@
   </div>
 </div>
 
+<div class="cardBG flex-1 p-3 gap-3">
+  <div class="cardBG bg-secondary-900 flex p-3">
+    <div class="w-10 h-10 ">
+      <img src="" alt="">
+    </div>
+    <div class=""></div>
+  </div>
+</div>
+
 </div>
